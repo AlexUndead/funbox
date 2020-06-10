@@ -125,3 +125,4 @@ STATIC_URL = '/static/'
 # Redis settings
 REDIS_HOST = 'localhost'
 REDIS_PORT = 6379
+REDIS_ZSET_NAME = 'links'
